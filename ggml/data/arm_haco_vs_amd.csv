@@ -1,0 +1,33 @@
+Threads,IntrinsicsMapper,SuperOptimizer,Compiler,Machine,Average Time
+1,0,0,gcc,ARM + HACO,464.27
+2,0,0,gcc,ARM + HACO,241.55
+3,0,0,gcc,ARM + HACO,169.55
+4,0,0,gcc,ARM + HACO,132.37
+5,0,0,gcc,ARM + HACO,110.81
+6,0,0,gcc,ARM + HACO,94.23
+7,0,0,gcc,ARM + HACO,85.64
+8,0,0,gcc,ARM + HACO,77.52
+9,0,0,gcc,ARM + HACO,72.04
+10,0,0,gcc,ARM + HACO,67.35
+11,0,0,gcc,ARM + HACO,63.83
+12,0,0,gcc,ARM + HACO,66.61
+13,0,0,gcc,ARM + HACO,67.00
+14,0,0,gcc,ARM + HACO,66.38
+15,0,0,gcc,ARM + HACO,65.02
+16,0,0,gcc,ARM + HACO,63.38
+1,0,0,gcc,AMD,594.72
+2,0,0,gcc,AMD,344.77
+3,0,0,gcc,AMD,306.18
+4,0,0,gcc,AMD,299.93
+5,0,0,gcc,AMD,250.51
+6,0,0,gcc,AMD,220.06
+7,0,0,gcc,AMD,198.67
+8,0,0,gcc,AMD,190.06
+9,0,0,gcc,AMD,195.37
+10,0,0,gcc,AMD,191.99
+11,0,0,gcc,AMD,195.37
+12,0,0,gcc,AMD,192.73
+13,0,0,gcc,AMD,195.39
+14,0,0,gcc,AMD,193.40
+15,0,0,gcc,AMD,192.21
+16,0,0,gcc,AMD,196.78
