@@ -103,7 +103,7 @@ Threads: 16, Intrinsics 0, SuperOptimizer 0 With gcc, Optimization Flag: default
 
 ```
 
-Run it with HACO will sotre all the results in `benchmark.log` from different flags in HACO, so that you can know which flag gives the best performance
+Run it with HACO will put all the results in `benchmark.log` from different flags in HACO, so that you can know which flag gives the best performance
 
 # install_log
 
